@@ -9,8 +9,8 @@ Port: 2226
 | Status | Username | Password |
 |--------|----------|----------|
 | ✔️ | [narnia0](narnia0.md) | narnia0 |
-| ✔️ | narnia1 | efeidiedae |
-| ❌ | narnia2 | N/A |
+| ✔️ | [narnia1](narnia1.md) | efeidiedae |
+| ❌ | narnia2 | nairiepecu |
 | ❌ | narnia3 | N/A |
 | ❌ | narnia4 | N/A |
 | ❌ | narnia5 | N/A |
