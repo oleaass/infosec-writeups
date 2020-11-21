@@ -4,6 +4,7 @@
 Host: narnia.labs.overthewire.org
 Port: 2226
 ```
+## Credentials
 
 | Status | Username | Password |
 |--------|----------|----------|
