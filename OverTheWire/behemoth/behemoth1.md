@@ -33,5 +33,6 @@ Password: eatmyshorts
 Access granted..
 $ whoami
 behemoth1
-$
+$ cat /etc/behemoth_pass/behemoth1
+aesebootiv
 ```
