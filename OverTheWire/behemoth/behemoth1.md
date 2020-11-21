@@ -1,4 +1,4 @@
-# Behemoth 1
+# Behemoth 0
 
 First we run it to see the behavior
 
