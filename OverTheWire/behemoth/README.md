@@ -10,7 +10,7 @@ Port: 2221
 | Status | Username | Password |
 |--------|----------|----------|
 | ✔️ | behemoth0 | behemoth0 |
-| ✔️ | [behemoth1](behemoth1.md) | eatmyshorts |
+| ✔️ | [behemoth1](behemoth1.md) | aesebootiv |
 | ❌ | behemoth2 | N/A |
 | ❌ | behemoth3 | N/A |
 | ❌ | behemoth4 | N/A |
