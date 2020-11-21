@@ -6,3 +6,4 @@
 |----------|----------|
 | krypton1 | KRYPTONISGREAT |
 | krypton2 | ROTTEN |
+| krypton3 | CAESARISEASY |
