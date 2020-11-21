@@ -1,5 +1,10 @@
 # Over The Wire - Krypton
 
+```
+Host: krypton.labs.overthewire.org
+Port: 2231
+```
+
 ## Credentials
 
 | Status | Username | Password |
