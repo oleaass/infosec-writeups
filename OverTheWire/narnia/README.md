@@ -10,7 +10,7 @@ Port: 2226
 |--------|----------|----------|
 | ✔️ | [narnia0](narnia0.md) | narnia0 |
 | ✔️ | [narnia1](narnia1.md) | efeidiedae |
-| ❌ | narnia2 | nairiepecu |
+| 🚧 | [narnia2](narnia2.md) | nairiepecu |
 | ❌ | narnia3 | N/A |
 | ❌ | narnia4 | N/A |
 | ❌ | narnia5 | N/A |
