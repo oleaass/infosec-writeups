@@ -4,9 +4,9 @@
 
 | Status | Username | Password |
 |--------|----------|----------|
-| ✔️ | krypton1 | KRYPTONISGREAT |
-| ✔️ | krypton2 | ROTTEN |
-| 🚧 | krypton3 | CAESARISEASY |
+| ✔️ | [krypton1](krypton1.md) | KRYPTONISGREAT |
+| ✔️ | [krypton2](krypton2.md) | ROTTEN |
+| 🚧 | [krypton3](krypton3.md) | CAESARISEASY |
 | ❌ | krypton4 | N/A |
 | ❌ | krypton5 | N/A |
 | ❌ | krypton6 | N/A |
