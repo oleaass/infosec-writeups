@@ -9,8 +9,8 @@ Port: 2221
 
 | Status | Username | Password |
 |--------|----------|----------|
-| ✔️ | behemoth0 | behemoth0 |
-| ✔️ | [behemoth1](behemoth1.md) | aesebootiv |
+| ✔️ | [behemoth0](behemoth0.md) | behemoth0 |
+| ✔️ | behemoth1 | aesebootiv |
 | ❌ | behemoth2 | N/A |
 | ❌ | behemoth3 | N/A |
 | ❌ | behemoth4 | N/A |
