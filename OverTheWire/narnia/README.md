@@ -1,5 +1,10 @@
 # Over The Wire - Narnia
 
+```
+Host: narnia.labs.overthewire.org
+Port: 2226
+```
+
 | Status | Username | Password |
 |--------|----------|----------|
 | ✔️ | narnia0 | narnia0 |
